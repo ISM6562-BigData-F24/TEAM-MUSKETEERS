@@ -4,5 +4,3 @@
 ♟️ Beyond the tech horizon, I find joy in pushing my boundaries to acquire new skills. My leisure pursuits span from delving into books and engaging in strategic chess moves to the whimsical world of left-handed writing.
 </p>
 ![alt text](https://github.com/ISM6562-BigData-F24/TEAM-MUSKETEERS/blob/main/poornachand.jpeg)
-
->>>>>>> f4eae916878685bf7b5f76e936bcffc072349861

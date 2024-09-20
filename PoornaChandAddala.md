@@ -3,5 +3,4 @@
 
 ♟️ Beyond the tech horizon, I find joy in pushing my boundaries to acquire new skills. My leisure pursuits span from delving into books and engaging in strategic chess moves to the whimsical world of left-handed writing.
 </p>
-![Alt text](poornachand-image.jpeg)
 ![117720122](https://github.com/user-attachments/assets/96433e92-9a21-49d1-aa73-8ac05165a033)
